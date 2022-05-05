@@ -1,5 +1,5 @@
 # Time Calculator
-## Project in the Scientific Computing with Python Course in freeCodeCamp's Curriculum
+### Created as part of freeCodeCamp's Scientific Computing with Python curriculum
 Write a function named add_time that takes in two required parameters and one optional parameter:
 
 a start time in the 12-hour clock format (ending in AM or PM)
